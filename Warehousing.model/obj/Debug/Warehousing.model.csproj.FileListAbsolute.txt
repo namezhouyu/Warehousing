@@ -1,0 +1,5 @@
+C:\Warehousing\Warehousing.model\bin\Debug\Warehousing.model.dll
+C:\Warehousing\Warehousing.model\bin\Debug\Warehousing.model.pdb
+C:\Warehousing\Warehousing.model\obj\Debug\ResolveAssemblyReference.cache
+C:\Warehousing\Warehousing.model\obj\Debug\Warehousing.model.dll
+C:\Warehousing\Warehousing.model\obj\Debug\Warehousing.model.pdb

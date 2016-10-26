@@ -1,0 +1,10 @@
+C:\Warehousing\Warehousing.bll\bin\Debug\Warehousing.bll.dll
+C:\Warehousing\Warehousing.bll\bin\Debug\Warehousing.bll.pdb
+C:\Warehousing\Warehousing.bll\bin\Debug\Warehousing.dal.dll
+C:\Warehousing\Warehousing.bll\bin\Debug\Warehousing.model.dll
+C:\Warehousing\Warehousing.bll\bin\Debug\System.Data.SQLite.dll
+C:\Warehousing\Warehousing.bll\bin\Debug\Warehousing.dal.pdb
+C:\Warehousing\Warehousing.bll\bin\Debug\Warehousing.model.pdb
+C:\Warehousing\Warehousing.bll\obj\Debug\ResolveAssemblyReference.cache
+C:\Warehousing\Warehousing.bll\obj\Debug\Warehousing.bll.dll
+C:\Warehousing\Warehousing.bll\obj\Debug\Warehousing.bll.pdb

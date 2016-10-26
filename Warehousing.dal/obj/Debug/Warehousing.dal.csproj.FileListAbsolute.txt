@@ -1,0 +1,8 @@
+C:\Warehousing\Warehousing.dal\bin\Debug\Warehousing.dal.dll
+C:\Warehousing\Warehousing.dal\bin\Debug\Warehousing.dal.pdb
+C:\Warehousing\Warehousing.dal\bin\Debug\System.Data.SQLite.DLL
+C:\Warehousing\Warehousing.dal\bin\Debug\Warehousing.model.dll
+C:\Warehousing\Warehousing.dal\bin\Debug\Warehousing.model.pdb
+C:\Warehousing\Warehousing.dal\obj\Debug\ResolveAssemblyReference.cache
+C:\Warehousing\Warehousing.dal\obj\Debug\Warehousing.dal.dll
+C:\Warehousing\Warehousing.dal\obj\Debug\Warehousing.dal.pdb
